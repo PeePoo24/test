@@ -88,20 +88,24 @@ The performance of the hybrid PV–TE system was evaluated using MATLAB simulati
 
 The simulation calculates:
 
-• Photovoltaic efficiency
-• Thermoelectric efficiency
-• Hybrid system efficiency
-• Hybrid power output
+- Photovoltaic efficiency
 
-as a function of the temperature difference across the thermoelectric generator.
+- Thermoelectric efficiency
+
+- Hybrid system efficiency
+
+- Hybrid power output as a function of the temperature difference across the thermoelectric generator.
 
 ---
 
 # Key Observations
 
 • Photovoltaic efficiency decreases as the temperature difference increases.
+
 • Thermoelectric generator efficiency increases with increasing temperature gradient.
+
 • The hybrid PV–TE system improves the overall energy utilization by converting part of the waste heat into electrical power.
+
 • The performance of the hybrid system depends strongly on the photovoltaic material used.
 
 ---
@@ -109,5 +113,7 @@ as a function of the temperature difference across the thermoelectric generator.
 # Author
 
 **Zafir Ashraf Beigh**
+
 B.Tech Mechanical Engineering
+
 Shri Mata Vaishno Devi University
