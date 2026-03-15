@@ -22,7 +22,7 @@ This work was conducted as part of a **Bachelor of Technology project at Shri Ma
 
 ## Energy Balance of PV-TEG-PCM System
 
-![Energy Balance](figures/energy_balance_system.png)
+![Energy Balance](figures/energy_balance_system.jpg)
 
 The PV-TEG-PCM system captures solar radiation and distributes energy into electrical output and thermal energy flows. The PV module converts solar radiation into electricity, while the remaining heat flows to the thermoelectric generator and PCM layer for energy recovery and thermal regulation.
 
