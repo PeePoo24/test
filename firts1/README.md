@@ -32,7 +32,7 @@ The conductive heat loss from the PV cell is absorbed by the thermoelectric gene
 
 # Efficiency of the PV–TE Hybrid System
 
-![Efficiency Graph](figures\efficiency_plot.png)
+![Efficiency Graph](figurese/fficiency_plot.png)
 
 This figure illustrates the efficiency of the generic PV–TE hybrid system, the PV cell, and the thermoelectric generator as a function of the temperature difference across the thermoelectric generator.
 
