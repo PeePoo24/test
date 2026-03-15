@@ -12,7 +12,7 @@ This project presents a parametric study of a hybrid PV–TE system using MATLAB
 
 # Hybrid PV–TE System Configuration
 
-![Hybrid PV-TE System](figures\PV%20TEG%20System.png)
+![Hybrid PV-TE System](../figures/PV%20TEG%20System.png)
 
 The PV–TE hybrid system consists of a photovoltaic cell and a thermoelectric generator. The PV cell converts part of the solar radiation into electricity, while the remaining energy is transformed into heat, leading to an increase in the PV cell temperature.
 
