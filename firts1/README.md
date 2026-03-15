@@ -66,7 +66,7 @@ Amorphous silicon photovoltaic cells generally exhibit lower efficiency but bett
 
 ## Monocrystalline Silicon (Mono-Si) PV–TE Hybrid System
 
-![Mono-Si PV-TE System](Mono-Si.png)
+![Mono-Si PV-TE System](../figures/Mono-Si.png)
 
 The monocrystalline silicon photovoltaic module provides higher baseline efficiency compared to amorphous silicon. However, its efficiency decreases more rapidly with increasing temperature.
 
