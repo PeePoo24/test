@@ -12,7 +12,7 @@ This project presents a parametric study of a hybrid PV–TE system using MATLAB
 
 # Hybrid PV–TE System Configuration
 
-![Hybrid PV-TE System](../figures/PV%20TEG%20System.png)
+![Hybrid PV-TE System](figures/pv_teg_system.png)
 
 The PV–TE hybrid system consists of a photovoltaic cell and a thermoelectric generator. The PV cell converts part of the solar radiation into electricity, while the remaining energy is transformed into heat, leading to an increase in the PV cell temperature.
 
@@ -56,7 +56,7 @@ These materials exhibit different electrical efficiencies and temperature coeffi
 
 ## Amorphous Silicon (a-Si) PV–TE Hybrid System
 
-![a-Si PV-TE System](figures\a-Si.png)
+![a-Si PV-TE System](figures/a-Si.png)
 
 This graph shows the variation of PV efficiency, thermoelectric efficiency, hybrid efficiency, and hybrid power output with temperature difference for an amorphous silicon photovoltaic module integrated with a thermoelectric generator.
 
@@ -66,7 +66,7 @@ Amorphous silicon photovoltaic cells generally exhibit lower efficiency but bett
 
 ## Monocrystalline Silicon (Mono-Si) PV–TE Hybrid System
 
-![Mono-Si PV-TE System](../figures/Mono-Si.png)
+![Mono-Si PV-TE System](figures/Mono-Si.png)
 
 The monocrystalline silicon photovoltaic module provides higher baseline efficiency compared to amorphous silicon. However, its efficiency decreases more rapidly with increasing temperature.
 
@@ -76,7 +76,7 @@ The integration of a thermoelectric generator allows part of the thermal energy 
 
 ## Cadmium Telluride (CdTe) PV–TE Hybrid System
 
-![CdTe PV-TE System](CdTe.png)
+![CdTe PV-TE System](figures/CdTe.png)
 
 Cadmium telluride photovoltaic modules offer moderate efficiency and improved thermal stability. The hybrid PV–TE configuration demonstrates the combined effect of photovoltaic efficiency degradation and thermoelectric energy generation.
 
